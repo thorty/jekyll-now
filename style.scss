@@ -149,13 +149,13 @@ img {
    background-color: black;
 
 
-}
+
 .cust-masthead {
   padding: 20px 0;
   margin-left: 20px;
   margin-right: 20px;
   //border-bottom: 1px solid $lightGray; 
-  
+}  
   
 
    
@@ -333,4 +333,9 @@ width:90px; /* Breite des Buttons */
 height:10px; /* Höhe des Buttons */
 background: $blue; /* Hintergrundfarbe */
 border-radius:15px;
+}
+
+.headerimg {
+
+//background-image: url("images/back_cockpit2.jpg");
 }
