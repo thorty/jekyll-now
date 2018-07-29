@@ -4,7 +4,7 @@ title: 'Film: Chef'
 image: "/content/images/2014/10/tumblr_n58l98OVN21ty0h5zo1_1280.jpg"
 date: '2014-09-27 14:24:52'
 tags:
-- film
+- Film
 ---
 
 Es muss nicht immer der Hummer sein oder ein Sechsgängemenü mit 5 Sternen. Weder wenn es ums Essen geht, noch im Leben selbst.

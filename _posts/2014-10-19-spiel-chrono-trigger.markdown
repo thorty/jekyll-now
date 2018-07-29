@@ -2,10 +2,10 @@
 layout: post
 title: 'Spiel: Chrono Trigger'
 featured: true
-image: "/content/images/2014/10/Die-25-besten-Rollenspiele-aller-Zeiten-Chrono-Trigger-700x395.jpg"
+image: "/content/images/2014/10/Die-25-besten-RollenSpiele-aller-Zeiten-Chrono-Trigger-700x395.jpg"
 date: '2014-10-19 17:32:36'
 tags:
-- spiel
+- Spiel
 ---
 
 WOW! Ich hatte ja keine Ahnung welch eine Perle ich hier für mich entdecken konnte als ich mir das heiß begeherte Nintendo DS Spiel zu eigen machte. So richtig aktiv wurde das Spiel nie in Europa vermarktet. Weder zu SNES noch zu "Playstation 1" oder "Nintendo DS" zeiten. Warum eigentlich? So ist es doch ein einziger Geniestreich der dem Dreamteam aus Square und Enix Mitarbeitern damals mit Chrono Trigger gelungen ist. 

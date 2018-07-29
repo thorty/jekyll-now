@@ -4,10 +4,10 @@ title: 'Spiel: Resindent Evil HD'
 image: "/content/images/2015/12/Resident_Evil_Biohazard_HD_REMASTER_Background_Main_Hall.jpg"
 date: '2015-12-21 17:52:50'
 tags:
-- spiel
+- Spiel
 ---
 
-"Lass uns doch zusammen das HD Remake von Resident Evil spielen." So begann die Geschichte einer epischen CouchCoop Odyssee durch die berühmte Villa am Rande von Raccoon City. Ja, wir haben uns wieder in die Hosen gemacht und sind erschrocken. Und ja, Resident Evil hat uns wieder in seinen Bann gezogen wie damals, irgendwann Mitte der 90er. Woran das liegt? Klar, das Remake sieht fantastisch aus, aber schnell zeigt Resident Evil was es schon damals zu einem einmaligen Erlebnis gemacht hat: Eine perfekt auf Überlebenshorror ausbalancierte Spielemechanik, sowie eine perfekt aufeinander abgestimmte Inzinierung von Kamera, Soundeffekten und Musik. 
+"Lass uns doch zusammen das HD Remake von Resident Evil Spielen." So begann die Geschichte einer epischen CouchCoop Odyssee durch die berühmte Villa am Rande von Raccoon City. Ja, wir haben uns wieder in die Hosen gemacht und sind erschrocken. Und ja, Resident Evil hat uns wieder in seinen Bann gezogen wie damals, irgendwann Mitte der 90er. Woran das liegt? Klar, das Remake sieht fantastisch aus, aber schnell zeigt Resident Evil was es schon damals zu einem einmaligen Erlebnis gemacht hat: Eine perfekt auf Überlebenshorror ausbalancierte Spielemechanik, sowie eine perfekt aufeinander abgestimmte Inzinierung von Kamera, Soundeffekten und Musik. 
 
 Wir lassen Jill langsam, mit der Waffe im Anschlag durch die Flure ziehen und genießen die Stille, welche lediglich von den eigenen Schritten oder dem Zombiegestöhne über die Surroundanlage durchbrochen wird und verfallen in Panik beim Aufeinandertreffen mit ebensolchen Zombies oder Schlimmerem. Wir schleppen Benzinkanister und Feuerzeug mit uns herum. Durchsuchen sorgfältig jeden Raum und beissen uns die Zähne aus an Rätseln vergangener Tage....
 

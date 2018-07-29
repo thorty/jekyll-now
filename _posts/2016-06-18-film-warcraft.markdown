@@ -4,14 +4,14 @@ title: 'Film: Warcraft The Beginning'
 image: "/content/images/2016/06/maxresdefault.jpg"
 date: '2016-06-18 06:42:15'
 tags:
-- film
+- Film
 ---
 
 Zu den Spielen:
-Ich habe Warcraft I,II und III gespielt und für knapp 2 Jahre recht intensiv World of Warcraft.  Was ich an den Spielen am aller meisten gemocht habe war das liebevolle Charakterdesign, den unverwechselbaren Charme und das Miteinander. Ich werde nie die ersten Momente vergessen in denen die Server in Deutschland starteten und ich mit Freunden gemeinsam Azaroth erkundete. Wenn ich heute die alten Screenshots betrachte auf denen unserer Charaktere vor gelegten Bossen posieren oder miteinander in einer der vielen Städte rumhängen erfüllt es mich mit mindestens der selben Freude mit der ich alte Urlaubsbilder anschaue. Ich vergleiche das Spielerlebnis noch heute gerne mit einem Urlaub, denn genau wie dort habe ich Dinge gesehen, die es so vorher noch nicht gab und Dinge (wenn auch digital) getan, die ich vorher nicht getan hatte. Ich habe Leute kennen gelernt und mit Ihnen gemeinsam eine tolle Zeit verbracht.
+Ich habe Warcraft I,II und III geSpielt und für knapp 2 Jahre recht intensiv World of Warcraft.  Was ich an den Spielen am aller meisten gemocht habe war das liebevolle Charakterdesign, den unverwechselbaren Charme und das Miteinander. Ich werde nie die ersten Momente vergessen in denen die Server in Deutschland starteten und ich mit Freunden gemeinsam Azaroth erkundete. Wenn ich heute die alten Screenshots betrachte auf denen unserer Charaktere vor gelegten Bossen posieren oder miteinander in einer der vielen Städte rumhängen erfüllt es mich mit mindestens der selben Freude mit der ich alte Urlaubsbilder anschaue. Ich vergleiche das Spielerlebnis noch heute gerne mit einem Urlaub, denn genau wie dort habe ich Dinge gesehen, die es so vorher noch nicht gab und Dinge (wenn auch digital) getan, die ich vorher nicht getan hatte. Ich habe Leute kennen gelernt und mit Ihnen gemeinsam eine tolle Zeit verbracht.
 
 Zum Film:
-Minimum 10 Jahre seit meinem letzten Login sollte mich der Kinofilm erneut in die Welt von Warcraft entführen. Ich war sehr skeptisch und hatte fast schon etwas Angst um meine tollen Erinnerungen.  Aber wisst Ihr was? Es ist ihm gelungen! Woran das liegt lässt sich leicht Erläutern:
+Minimum 10 Jahre seit meinem letzten Login sollte mich der KinoFilm erneut in die Welt von Warcraft entführen. Ich war sehr skeptisch und hatte fast schon etwas Angst um meine tollen Erinnerungen.  Aber wisst Ihr was? Es ist ihm gelungen! Woran das liegt lässt sich leicht Erläutern:
 
 Die Optik:
 Ja der Film besteht quasi nur aus CGI-Effekten und Animationen. Aber sie sind fantastisch gemacht und passen optisch damit nicht nur gut zur farbenfrohen Welt des Spiels sondern eben auch zu dessen Cinematic-Trailern die wir Spieler immerzu so gerne mochten.

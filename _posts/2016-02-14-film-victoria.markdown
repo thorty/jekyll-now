@@ -4,12 +4,12 @@ title: 'Film: Victoria'
 image: "/content/images/2016/02/maxresdefault.jpg"
 date: '2016-02-14 20:20:58'
 tags:
-- film
+- Film
 ---
 
 Es ist einige Zeit vergangen seitdem ich etwas geschrieben habe. Das liegt zum einen an mangelnder Zeit aber auch daran, dass mich schon lange nichts mehr so vom Hocker gehauen hat, dass ich den Drang verspürte darüber schreiben zu müssen. 
 
-Nun gibt es einen Grund: Ein Film aus Deutschland von Sebastian Schipper. Die Tatsache, dass der Film an einem Stück aufgenommen und die Dialoge nicht im Drehbuch festgeschrieben wurden, sondern zum Großteil während des Drehs entstanden sind, macht den Streifen nicht nur interessant. Nein es macht den Film mehr als sehenswert. <center>"Was für ein wilder Ritt" <br/>"Großartig" <br/>"Überwältigend"<br/></center>
+Nun gibt es einen Grund: Ein Film aus Deutschland von Sebastian Schipper. Die Tatsache, dass der Film an einem Stück aufgenommen und die Dialoge nicht im DrehBuch festgeschrieben wurden, sondern zum Großteil während des Drehs entstanden sind, macht den Streifen nicht nur interessant. Nein es macht den Film mehr als sehenswert. <center>"Was für ein wilder Ritt" <br/>"Großartig" <br/>"Überwältigend"<br/></center>
 
 Anstatt dieses Werk mit den Worten der Kritiker zu beschreiben, was durchaus angebracht wäre, möchte ich meinen Abend beschreiben. Ganz ohne Spoiler versteht sich. Nichts wäre schlimmer. 
 

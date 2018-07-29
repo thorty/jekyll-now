@@ -4,7 +4,7 @@ title: 'Film: The Place Beyond the Pines'
 image: "/content/images/2015/03/The-Place-Beyond-the-Pines2-e1363208585265.jpg"
 date: '2015-03-29 18:41:58'
 tags:
-- film
+- Film
 ---
 
 Hmmm. Der Abspann flimmert über den Schirm und ich weiss nicht so recht, was ich davon halten soll. Unterhalten hat der Film. Auch weil er recht undurchsichtig war. Ich wusste nie so recht worauf alles noch hinaus läuft aber so richtig eingeschlagen hat er jetzt auch nicht.
