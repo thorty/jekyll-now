@@ -22,6 +22,8 @@ Dr.-Goerdeler Straße 49
 Deutschland
 
 thorsten.weiskopf@t-online.de
+http://www.thorstenweiskopf.de
+https://thorty.github.io
 
 Ich wiedersprecher der Nutzung und/oder Übermittlung meiner hier genannten Kontaktdaten für kommerzielle Zwecke oder für die Markt- bzw. Meinungsforschung (§28 Abs.4 BDSG).
 
