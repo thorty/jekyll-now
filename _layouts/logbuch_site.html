@@ -21,13 +21,22 @@
     <headerlog> 
       <h1>Tagebuch eines Sternereisenden </h1>
     </headerlog> 
-  
+    
+
     <div id="main" role="main" class="container">
         {{ content }}  
     </div>
 
 
     <div class="wrapper-footer">
+      <div class="navbarfooter">
+        <nav>
+            <a href="{{ site.baseurl}}/Logbuch/">Logbuch</a>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <!-- <a href="{{ site.baseurl }}/about/">About</a> -->
+            <a href="{{ site.baseurl }}/impressum/">Impressum</a>
+          </nav>
+        </div>
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
