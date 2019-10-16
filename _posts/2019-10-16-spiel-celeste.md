@@ -13,7 +13,7 @@ Das perfekte Spiel? Ich glaube das gibt es nicht. Aber wenn es so etwas gibt ste
 <br>Lachen und Weinen.<br>
 <br>Erfolge feiern und vor Frust fast ausflippen.<br>
 <br>Musik an, Kopf aus.<br>
-<br>Den Soundtrack fürs Leben finden.<br>
+<br>Den Soundtrack fürs Leben finden. Und Erdbeeren!<br>
 <br>Ziele setzen und trotz aller Widrigkeit verfolgen.<br>
 <br>Sich selbst der größte Feind sein, sich seinen Dämonen stellen.<br>
 <br>Und sich bei alle dem den Spaß bewahren.<br>
