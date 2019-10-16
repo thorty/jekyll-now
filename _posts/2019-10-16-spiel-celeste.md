@@ -17,5 +17,5 @@ Das perfekte Spiel? Ich glaube das gibt es nicht. Aber wenn es so etwas gibt ste
 <br>Ziele setzen und trotz aller Widrigkeit verfolgen.<br>
 <br>Sich selbst der größte Feind sein, sich seinen Dämonen stellen.<br>
 <br>Und sich bei alle dem den Spaß bewahren.<br>
-</center>
+</center><br>
 Nein, ich spreche nicht vom Leben. Sondern von Celeste. Dem wohl besten Spiel der letzten Jahre. 
