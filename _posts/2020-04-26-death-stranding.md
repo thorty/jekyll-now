@@ -24,5 +24,6 @@ Danke für diese Erfahrung.
 👍 Hideo Kojima
 
 Nachwort:
+
 *Man kann das was Hideo Kojima mit seinem Studio geschaffen hat lieben oder hassen. Man kann es bis ins kleinste Detail akademisch analysieren, sehr simplifizieren oder auch zerreden. All dies erinnert mich sehr an Kunst und so beweist Death Stranding für mich unumstritten, dass Videospiele Kunst sind. Ich hoffe, dass dies endgültig bei den Medien, im Feuilleton und letztlich auch bei der Politik ankommt.*
 
